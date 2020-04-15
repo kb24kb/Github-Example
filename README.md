@@ -1,2 +1,2 @@
-# Github-Example
+# Stock Management Software
 Sample Repository.
